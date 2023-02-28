@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC_5V Pin=Mini-PCIE1-2
+Removed Pin From Net: NetName=VCC_5V Pin=Mini-PCIE1-28
+Removed Pin From Net: NetName=VCC_5V Pin=Mini-PCIE1-48
+Removed Pin From Net: NetName=VCC_5V Pin=Mini-PCIE1-52
+Added Pin To Net: NetName=VBUS_5V Pin=Mini-PCIE1-2
+Added Pin To Net: NetName=VBUS_5V Pin=Mini-PCIE1-28
+Added Pin To Net: NetName=VBUS_5V Pin=Mini-PCIE1-48
+Added Pin To Net: NetName=VBUS_5V Pin=Mini-PCIE1-52
+Added Net: Name=VBUS_5V
+Added Member To Class: ClassName=MCU_Power Member=Component U4 SL2.1A

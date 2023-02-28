@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=M485_DE Pin=U2-29
+Added Pin To Net: NetName=M485_DE Pin=U2-11
+Added Member To Class: ClassName=Mini_PCIE Member=Component J6 SWD

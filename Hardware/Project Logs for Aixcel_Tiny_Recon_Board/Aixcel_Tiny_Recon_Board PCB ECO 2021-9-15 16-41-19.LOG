@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Member From Class: ClassName=MCU_Power Member=C4
+Removed Member From Class: ClassName=MCU_Power Member=C12
+Added Pin To Net: NetName=VBUS_5V Pin=U4-12
+Added Pin To Net: NetName=VCC_3V3 Pin=U4-13
+Added Member To Class: ClassName=MCU_Power Member=Component R15 36K¦¸

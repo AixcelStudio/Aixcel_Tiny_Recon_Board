@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=Mini_PCIE Member=R26
+Removed Member From Class: ClassName=Mini_PCIE Member=R27
+Change Net Name : Old Net Name=USB_DM New Net Name=USB_N
+Change Net Name : Old Net Name=USB_DP New Net Name=USB_P
+Added Pin To Net: NetName=ESP32_FS_N Pin=U4-8
+Added Pin To Net: NetName=ESP32_FS_N Pin=U7-13
+Added Net: Name=ESP32_FS_N
+Added Pin To Net: NetName=ESP32_FS_P Pin=U4-9
+Added Pin To Net: NetName=ESP32_FS_P Pin=U7-14
+Added Net: Name=ESP32_FS_P
+Added Differential Pair: Name=ESP32_FS
+Added Differential Pair: Name=USB

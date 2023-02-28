@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=VCC_3V3 Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=VCC_5V Pin=R10-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=R14-2
+Removed Pin From Net: NetName=VCC_5V Pin=R15-1
+Removed Pin From Net: NetName=VCC_3V3 Pin=R16-2
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=GND Pin=U4-1
+Removed Pin From Net: NetName=ESP32_FS_N Pin=U4-4
+Removed Pin From Net: NetName=ESP32_FS_P Pin=U4-5
+Removed Pin From Net: NetName=MCU_FS_N Pin=U4-10
+Removed Pin From Net: NetName=MCU_FS_P Pin=U4-11
+Removed Pin From Net: NetName=VCC_3V3 Pin=U4-13
+Removed Pin From Net: NetName=USB_N Pin=U4-15
+Removed Pin From Net: NetName=USB_P Pin=U4-16
+Removed Pin From Net: NetName=VCC_5V Pin=U4-20
+Removed Pin From Net: NetName=VCC_3V3 Pin=U4-21
+Removed Pin From Net: NetName=NetC12_2 Pin=U4-28
+Removed Member From Class: ClassName=MCU_Power Member=C13
+Removed Member From Class: ClassName=MCU_Power Member=D2
+Removed Member From Class: ClassName=MCU_Power Member=R10
+Removed Member From Class: ClassName=MCU_Power Member=R12
+Removed Member From Class: ClassName=MCU_Power Member=R14
+Removed Member From Class: ClassName=MCU_Power Member=R15
+Removed Member From Class: ClassName=MCU_Power Member=R16
+Removed Member From Class: ClassName=MCU_Power Member=R18
+Change Component Footprint: Designator=U4 Old Footprint=FE1.1S New Footprint=SOP-16_L10.0-W3.9-P1.27-LS6.0-BL
+Change Component Comment : Designator=C12 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=U4 Old Comment=FE1.1S New Comment=SL2.1A
+Change component parameters: Designator = "C12"; Footprint = "0603_C"; UniqueID = "\NKRNUBYL\KXEAZLIC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_20411.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C19702"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4"; Footprint = "SOP-16_L10.0-W3.9-P1.27-LS6.0-BL"; UniqueID = "\NKRNUBYL\LTIAHNFR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer"; Value = "CoreChips"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SL2.1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "BOM_Supplier Part"; Value = "C192893"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "spiceSymbolName"; Value = "SL2.1A"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0603_C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_20411.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C19702"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=ESP32_FS_N Pin=U4-3
+Added Pin To Net: NetName=ESP32_FS_P Pin=U4-4
+Added Pin To Net: NetName=MCU_FS_N Pin=U4-7
+Added Pin To Net: NetName=MCU_FS_P Pin=U4-8
+Added Pin To Net: NetName=USB_N Pin=U4-9
+Added Pin To Net: NetName=USB_P Pin=U4-10
+Added Pin To Net: NetName=VCC_5V Pin=U4-11
+Added Pin To Net: NetName=GND Pin=U4-12
+Added Pin To Net: NetName=NetC12_2 Pin=U4-14
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=U4-13
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetU4_15 Pin=U4-15
+Added Pin To Net: NetName=NetU4_15 Pin=Y2-1
+Added Net: Name=NetU4_15
+Added Pin To Net: NetName=NetU4_16 Pin=U4-16
+Added Pin To Net: NetName=NetU4_16 Pin=Y2-2
+Added Net: Name=NetU4_16
+Added Member To Class: ClassName=MCU_Power Member=Component C4 10uF

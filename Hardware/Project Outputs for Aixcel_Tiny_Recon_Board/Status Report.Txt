@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Aixcel_Tiny_Recon_Board.PrjPcb]
+   Generated File[Aixcel_Tiny_Recon_Board.TXT]
+   Generated File[Aixcel_Tiny_Recon_Board.LDP]
+   Generated File[Aixcel_Tiny_Recon_Board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:08:30 On 2022/2/13

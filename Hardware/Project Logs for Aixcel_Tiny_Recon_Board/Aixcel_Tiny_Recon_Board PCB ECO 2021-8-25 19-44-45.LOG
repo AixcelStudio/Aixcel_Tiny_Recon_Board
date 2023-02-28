@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=J6-1
+Removed Pin From Net: NetName=ESP32_TDO Pin=J6-2
+Removed Pin From Net: NetName=ESP32_TCK Pin=J6-3
+Removed Pin From Net: NetName=ESP32_TDI Pin=J6-4
+Removed Pin From Net: NetName=ESP32_TMS Pin=J6-5
+Added Pin To Net: NetName=ESP32_TDO Pin=J6-1
+Added Pin To Net: NetName=ESP32_TCK Pin=J6-2
+Added Pin To Net: NetName=ESP32_TDI Pin=J6-3
+Added Pin To Net: NetName=ESP32_TMS Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-5
